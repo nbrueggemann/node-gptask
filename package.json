@@ -1,0 +1,23 @@
+{
+  "name": "node-gptask",
+  "version": "1.0.0",
+  "description": "Executes a geoprocessing task via NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbrueggemann/node-gptask.git"
+  },
+  "author": "Nick Brueggemann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbrueggemann/node-gptask/issues"
+  },
+  "homepage": "https://github.com/nbrueggemann/node-gptask#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0"
+  }
+}
